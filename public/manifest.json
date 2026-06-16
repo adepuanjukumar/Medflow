@@ -1,0 +1,22 @@
+{
+  "short_name": "MedFlow",
+  "name": "MedFlow Smart Medicine Reminder",
+  "description": "Premium healthcare routine tracker and medicine alarm dashboard.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234F6BFF' stroke-width='2.5'><rect x='2' y='9' width='20' height='6' rx='3' ry='3'/><path d='M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7H17v8a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-8h1.5'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234F6BFF' stroke-width='2.5'><rect x='2' y='9' width='20' height='6' rx='3' ry='3'/><path d='M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7H17v8a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-8h1.5'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#4F6BFF",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -14,7 +14,9 @@ const port = 3000;
 const mobileClients = new Map();
 
 // Connect to MongoDB
-mongoose.connect('mongodb://127.0.0.1:27017/medicine-reminder')
+mongoose.connect(
+  'mongodb+srv://Medflow:ANJU235689@expensetracker.t73iagz.mongodb.net/medicine-reminder?retryWrites=true&w=majority&appName=Expensetracker'
+)
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => console.error(err));
 
